@@ -1,0 +1,12 @@
+let marley = 'Dog';
+
+if (marley === 'Cat') {
+  console.log('Marley meows like a cat!');
+}else if (marley === 'Dog'); {
+  console.log('Marley is the cutest doggo!');
+}else if (marley === 'Turtle'); {
+  console.log('Marley has a giant shell on her back.');
+}
+else {
+  console.log('Marley is not an animal.');
+}
